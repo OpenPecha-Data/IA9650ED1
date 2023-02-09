@@ -1,0 +1,16 @@
+id: IA9650ED1
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:22:17.584759
+last_modified: 2023-02-10 00:22:17.584925
+source_metadata:
+  title: 'Asaṅga/Maitreya: Mahāyānasūtrālaṃkāra'
+  language: sa
+bases:
+  F903:
+    base_file: F903.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
